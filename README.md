@@ -8,4 +8,5 @@
 - Sort a K-sorted array: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/KSortedArray.cpp)
 - Find K closest numbers to a given number: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/KClosest.cpp)
 - Print top k frequent numbers: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/KFreq.cpp)
+- Frequency sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/FreqSort.cpp)
 
