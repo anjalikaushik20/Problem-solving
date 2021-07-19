@@ -10,4 +10,5 @@
 - Print top k frequent numbers: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/KFreq.cpp)
 - Frequency sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/FreqSort.cpp)
 - Find K closest pairs to origin: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/KClose-org.cpp)
+- Connect ropes to minimize the cost: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/ConnectRopes.cpp)
 
