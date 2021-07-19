@@ -11,4 +11,5 @@
 - Frequency sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/FreqSort.cpp)
 - Find K closest pairs to origin: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/KClose-org.cpp)
 - Connect ropes to minimize the cost: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/ConnectRopes.cpp)
+- Sum of elements between K1<sup>th</sup> smallest and K2<sup>th</sup> smallest elements: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/Heaps/Sum.cpp)
 
