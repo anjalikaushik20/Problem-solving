@@ -16,4 +16,5 @@
 ### Sorting Algorithms
 - Selection sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/SortingAlgorithms/selection.cpp)
 - Bubble sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/SortingAlgorithms/bubble.cpp)
-
+- Insertion sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/SortingAlgorithms/insertion.cpp)
+- Merge sort: [here](https://github.com/anjalikaushik20/Problem-solving/blob/master/SortingAlgorithms/merge.cpp)
