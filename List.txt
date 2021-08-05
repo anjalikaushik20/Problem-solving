@@ -1,0 +1,11 @@
+Problems to be solved:
+
+Classic Problems:
+1. Knapsack Problem
+2. Job Scheduling Problem
+
+Resursion:
+1. Fibonacci
+2. Tower Of Hanoi
+3. Breadth First Search
+4. Depth First Search
