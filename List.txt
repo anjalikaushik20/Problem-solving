@@ -3,6 +3,9 @@ Problems to be solved:
 Classic Problems:
 1. Knapsack Problem
 2. Job Scheduling Problem
+3. Longest Common Subsequence
+4. Matrix Chain Multiplication
+5. All pair shortest path problem
 
 Resursion:
 1. Fibonacci
