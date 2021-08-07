@@ -8,7 +8,6 @@ Classic Problems:
 5. All pair shortest path problem
 
 Resursion:
-1. Fibonacci
-2. Tower Of Hanoi
-3. Breadth First Search
-4. Depth First Search
+1. Tower Of Hanoi
+2. Breadth First Search
+3. Depth First Search
