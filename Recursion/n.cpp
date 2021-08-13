@@ -1,20 +1,32 @@
-//Print 1 to n using recursion
+//Print 1 to n and n to 1 using recursion
 #include<iostream>
 using namespace std;
-
-void Display(int n){
+//print 1 to n
+void DisplayOne(int n){
     if(n == 1)
         cout<<1<<" ";
     else{
-        Display(n-1);
+        DisplayOne(n-1);
         cout<<n<<" ";
     }
 }
+//print n to 1
+void DisplayTwo(int n){
+    if(n == 1)
+        cout<<1<<" ";
+    else{
+        cout<<n<<" ";
+        DisplayTwo(n-1);
+    }
+}
 
+//driver code
 int main(){
     int n = 7;
 
-    Display(n);
+    DisplayOne(n);
+    cout<<endl;
+    DisplayTwo(n);
 
     return 0;
 }
